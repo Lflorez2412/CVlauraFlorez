@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=DynaPuff&family=Lobster&family=Playfair+Display&display=swap');
+.header1{
+    text-align: center;
+    background-image: url(../img/pexels-iva-muškić-691710.jpg);
+    background-size: cover;
+    
+}
+.fotoLaura {
+    margin: auto;
+    display: block;
+    height: 160px;
+}
+.hiper1 {
+    font-family: 'Playfair Display', serif;
+    background-color: #02020c;
+    font-size: 20px;
+    color:rgb(255, 255, 255)
+}
+.sty1{
+    font-style: italic;
+    font-weight: bold;
+}
+.sty2{
+    font-weight: bold;
+}
+span{
+    font-weight: normal;
+}
+.body2{
+    background-image: url(../img/pexels-emre-can-acer-2449364.jpg);
+    background-size: cover;
+}
+p{
+    font-family: 'DynaPuff', cursive;
+    text-align: justify; 
+    font font-style: normal;
+}
+.nav2{
+    font-size: 18px;
+    color: black
+}
+.p2{
+    font-style: oblique;
+    font-size: 22px;
+}
+.p3{
+    text-decoration: underline;
+    font-size: 15px;
+}
+
+
+    
+
+h1 {
+    font-family: 'Bree Serif', serif;
+    text-align: center;
+    background-color: #02020c;
+    font-size: 30px;
+    color:rgb(255, 255, 255)
+    
+
+}
+
+h2 {
+    font-family: 'Playfair Display', serif;
+    background-color: #02020c;
+    
+
+    color:rgb(255, 255, 255)
+}
+
+.p1{
+    font-family: 'DynaPuff', cursive;
+    text-align: center; 
+}
+footer{
+    text-align: center; 
+    background-color: #02020c;
+    color:rgb(255, 255, 255)
+}
+.gitHub{
+    height: 20px;
+}
